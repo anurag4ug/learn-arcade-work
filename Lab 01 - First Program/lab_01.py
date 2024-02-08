@@ -1,5 +1,6 @@
-print('''Hello Professor Wolff!\nProgramming in Python is making my love for programming grow.''')
+print("""Hello Professor Wolff!\nProgramming in Python is making my love for programming grow.""")
 print("Its one of the decisions that I think I won't be regretting for the rest of my life\tand its quite an interesting thing to learn.")
+print()
 print("I am looking forward to learning more types of programming and coding in my time here at Hartwick.")
 print("Right now i am writing a code in python that was assigned to us by the professor.")
 print("After I am done with my assignment i will be submitting it in D2L.\nI hope to do more of these types of assignments in the near future.")
